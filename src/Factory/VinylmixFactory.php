@@ -26,7 +26,7 @@ use Zenstruck\Foundry\Proxy;
  * @method static VinylMixRepository|RepositoryProxy repository()
  * @method VinylMix|Proxy create(array|callable $attributes = [])
  */
-final class VinylMixFactory extends ModelFactory
+final class VinylmixFactory extends ModelFactory
 {
     public function __construct()
     {
